@@ -1,8 +1,6 @@
 
 # Prueba practica tarea 2 
 
-
-
 ### Cargamos el directorio de trabajo
 ```R
 setwd("C:/Users/Daniel Segura/Documents/UCR Segundo año/Procesamiento de datos geograficos/")
@@ -48,7 +46,7 @@ attach(inp)
 ```
 _Utilizamos la funcion ```attatch``` para definir los nombres de los ríos_  
 
-### Graficos los datos de estrella
+### Grafico de datos rio estrella
 ```R
 plot(estrella, xlab = "Puntos historicos")
 ```
